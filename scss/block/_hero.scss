@@ -1,0 +1,21 @@
+.main__cat{
+    
+    margin: 0 auto;
+    border: none;
+
+    
+    
+    &__card{
+        width: 1230px;
+        display: flex;
+        
+        justify-content: center;
+        align-items: center;
+        
+        .card1{
+            margin-inline: 70px;
+        }
+    }
+    
+    
+}
